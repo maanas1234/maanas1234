@@ -1,4 +1,8 @@
-## Hi there 👋
+## 🚀 Open Source Contributions
+
+- Hugging Face Transformers  
+  - Fixed incorrect `TrainingArguments` example in docs  
+  - PR merged: https://github.com/huggingface/transformers/pull/45150
 
 <!--
 **maanas1234/maanas1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
