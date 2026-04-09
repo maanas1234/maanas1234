@@ -1,3 +1,13 @@
+# Hi guys
+
+I am Maanas Tyagi
+I like to build stuff using Deep Learning prefb:Transformers
+Currently exploring Agentic AI.
+
+Email - Maanastyagi2006@gmail.com
+LinkedIn - https://www.linkedin.com/in/maanas-tyagi-1b955b23b/
+
+
 ## 🚀 Open Source Contributions
 
 - Hugging Face Transformers  
