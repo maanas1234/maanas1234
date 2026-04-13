@@ -1,7 +1,8 @@
 # Hi guys
 
 I am Maanas Tyagi
-I like to build stuff using Deep Learning prefb:Transformers
+I like to build stuff using Deep Learning mostly transformers 
+
 Currently exploring Agentic AI.
 
 Email - Maanastyagi2006@gmail.com
