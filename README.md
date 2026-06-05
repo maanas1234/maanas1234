@@ -1,3 +1,5 @@
+![Banner](white_cat.png)
+
 # Hey, I'm Maanas 👋
 
 **AI Engineer & Researcher** building AI agents, evaluation frameworks, and developer tools.
