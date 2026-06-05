@@ -1,4 +1,4 @@
-![Banner](white_cat.png)
+![Banner](white_cat.jpg)
 
 # Hey, I'm Maanas 👋
 
