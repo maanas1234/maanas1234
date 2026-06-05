@@ -26,5 +26,19 @@ Intern @Genpact
 
 📫 Reach me:
 https://www.linkedin.com/in/maanas-tyagi-1b955b23b/
+
 [Email](maanastyagi2006@gmail.com)
+
 https://x.com/maanas_tyagi
+
+
+## ⚡ Tech Stack
+
+![Python]
+![PyTorch]
+![RAG]
+![LangGraph]
+![LangChain]
+![MCP]
+![Docker]
+![Git]
