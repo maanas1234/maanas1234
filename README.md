@@ -16,7 +16,7 @@ Intern @Genpact
 🚀 Currently Building
 - My own harness ( OSS )
 - Agent Failure Observablity Framework
-- ........
+
 
 📚 Currently Learning
 - Harness Engineering
@@ -25,6 +25,6 @@ Intern @Genpact
 - 
 
 📫 Reach me:
-[LinkedIn]([url](https://www.linkedin.com/in/maanas-tyagi-1b955b23b/))
+https://www.linkedin.com/in/maanas-tyagi-1b955b23b/
 [Email](maanastyagi2006@gmail.com)
-[Twitter]([url](https://x.com/maanas_tyagi))
+https://x.com/maanas_tyagi
