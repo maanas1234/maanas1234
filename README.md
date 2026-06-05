@@ -1,31 +1,30 @@
-# Hi guys
+# Hey, I'm Maanas 👋
 
-I am Maanas Tyagi
-I like to build stuff using Deep Learning mostly transformers 
+Upcoming AI Engineer & Researcher building AI agents, RAG systems, and developer tools.
 
-Currently exploring Agentic AI.
+Intern @Genpact
 
-Email - Maanastyagi2006@gmail.com
-LinkedIn - https://www.linkedin.com/in/maanas-tyagi-1b955b23b/
+🔬 Current Interests
+- AI Agents( Harness Engineering )
+- LLM Memory Systems
+- Multi-Agent Workflows
+- RAG Architectures
+- Small Language Models
+- Transformer Architecuture
+- Deep Learning
 
+🚀 Currently Building
+- My own harness ( OSS )
+- Agent Failure Observablity Framework
+- ........
 
-## 🚀 Open Source Contributions
+📚 Currently Learning
+- Harness Engineering
+- Systems Design
+- Agent Optimization
+- 
 
-- Hugging Face Transformers  
-  - Fixed incorrect `TrainingArguments` example in docs  
-  - PR merged: https://github.com/huggingface/transformers/pull/45150
-
-<!--
-**maanas1234/maanas1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me:
+[LinkedIn]([url](https://www.linkedin.com/in/maanas-tyagi-1b955b23b/))
+[Email](maanastyagi2006@gmail.com)
+[Twitter]([url](https://x.com/maanas_tyagi))
