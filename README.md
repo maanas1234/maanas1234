@@ -4,7 +4,7 @@
 
 **AI Engineer & Researcher** building AI agents, evaluation frameworks, and developer tools.
 
-🏢 Intern @ Genpact
+🏢 Ex Intern @Genpact
 
 ---
 
