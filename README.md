@@ -117,9 +117,7 @@ Tested how small language model agents degrade under semantic noise — format c
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maanas1234&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e8823c&icon_color=e8823c&text_color=c9d1d9&count_private=true" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maanas1234&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e8823c&text_color=c9d1d9" height="160"/>
+<img src="https://streak-stats.demolab.com/?user=maanas1234&theme=dark&hide_border=true&background=0D1117&stroke=e8823c&ring=e8823c&fire=e8823c&currStreakLabel=e8823c&sideLabels=c9d1d9&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff" />
 
 <br><br>
 
