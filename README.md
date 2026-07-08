@@ -117,7 +117,7 @@ Tested how small language model agents degrade under semantic noise — format c
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=maanas1234&theme=dark&hide_border=true&background=0D1117&stroke=e8823c&ring=e8823c&fire=e8823c&currStreakLabel=e8823c&sideLabels=c9d1d9&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff" />
+<img src="https://cataas.com/cat/gif?width=400&height=300" width="400" alt="a cat" />
 
 <br><br>
 
