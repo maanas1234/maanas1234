@@ -10,6 +10,8 @@ I replaced a \$3,000 reconciliation tool with Python.
 I built a fog-of-war map of the real world, GTA-style.  
 I'm figuring out why LLM agents get dumber the longer they run.
 
+📖 &nbsp;Currently learning: **AI System Design**
+
 <br>
 
 <a href="https://linkedin.com/in/maanas-tyagi-1b955b23b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -48,6 +50,24 @@ GTA fog-of-war for the real world. Map starts dark, reveals permanently as you w
 <tr>
 <td valign="top">
 
+### 🔄 [Corrective RAG](https://github.com/maanas1234/Corrective-Rag)
+Full CRAG pipeline: retrieve → grade → rewrite → generate. Falls back to web search when the vector store fails. Graceful, not fragile.
+
+`LangGraph` `LangChain` `FAISS` `Python`
+
+</td>
+<td valign="top">
+
+### 📦 [RAG with Summary Embeddings](https://github.com/maanas1234/RAG-WITH-SUMMARY-EMBEDDINGS)
+Multi-vector RAG: embed summaries for retrieval, store original chunks separately. Better semantic search without losing information — fixes the core trade-off in naive RAG.
+
+`LangChain` `ChromaDB` `HuggingFace` `Python`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 ### 🧠 [Concept Mapper](https://github.com/maanas1234/Concept_Mapper)
 Type a topic. Get a personalized learning path as an interactive 3D knowledge graph. Click any node for resources and next steps.
 
@@ -66,18 +86,18 @@ Windows tray widget showing live Claude.ai session limits + reset countdowns. Po
 <tr>
 <td valign="top">
 
-### 🔄 [Corrective RAG](https://github.com/maanas1234/Corrective-Rag)
-Full CRAG pipeline: retrieve → grade → rewrite → generate. Falls back to web search when the vector store fails. Graceful, not fragile.
-
-`LangGraph` `LangChain` `FAISS` `Python`
-
-</td>
-<td valign="top">
-
 ### 💬 [Todoist Agent](https://github.com/maanas1234/todoist-agent)
 WhatsApp bot that manages your Todoist tasks via natural language. "Add call Mom at 5pm tomorrow" — done. Deployed on Railway.
 
 `Python` `DeepSeek` `Twilio` `Railway`
+
+</td>
+<td valign="top">
+
+### ✍️ [Human-Write](https://github.com/maanas1234/human-write)
+A field guide for eliminating AI writing patterns — 10 categories, 40+ specific tells, real failure examples, and the fix for each. Feed it to any LLM or use it to audit your own writing.
+
+`Resource` `Prompt Engineering` `Writing`
 
 </td>
 </tr>
