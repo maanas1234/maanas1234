@@ -32,13 +32,23 @@ I'm figuring out why LLM agents get dumber the longer they run.
 <tr>
 <td width="50%" valign="top">
 
+### 📊 [RAG Eval System](https://github.com/maanas1234/RAG-Eval-System)
+Built specifically to practice the part most RAG projects skip — evaluation. Found and fixed a real dedup bug in LangChain's MultiQueryRetriever, then ran ablations proving the "obvious" hybrid retrieval default actually loses to semantic-only search (Recall@5 0.85 vs 0.82).
+
+`LangChain` `Chroma` `RAGAS` `Python`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🔬 [Lumen Research](https://github.com/maanas1234/Lumen-Research)
 Local-first AI paper reader. Upload a 100-page PDF, chat with it, highlight anything for ELI5 / math / step-by-step breakdowns. Zero cloud dependency via Ollama.
 
 `FastAPI` `React` `FAISS` `Ollama` `RAG`
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td valign="top">
 
 ### 🗺️ [Groove](https://github.com/maanas1234/groove)
 GTA fog-of-war for the real world. Map starts dark, reveals permanently as you walk or drive through it. Custom lat/lng quantization grid in pure Dart — because H3 broke on Android FFI.
@@ -46,8 +56,6 @@ GTA fog-of-war for the real world. Map starts dark, reveals permanently as you w
 `Flutter` `Dart` `Android`
 
 </td>
-</tr>
-<tr>
 <td valign="top">
 
 ### 🔄 [Corrective RAG](https://github.com/maanas1234/Corrective-Rag)
@@ -56,6 +64,8 @@ Full CRAG pipeline: retrieve → grade → rewrite → generate. Falls back to w
 `LangGraph` `LangChain` `FAISS` `Python`
 
 </td>
+</tr>
+<tr>
 <td valign="top">
 
 ### 📦 [RAG with Summary Embeddings](https://github.com/maanas1234/RAG-WITH-SUMMARY-EMBEDDINGS)
@@ -64,8 +74,6 @@ Multi-vector RAG: embed summaries for retrieval, store original chunks separatel
 `LangChain` `ChromaDB` `HuggingFace` `Python`
 
 </td>
-</tr>
-<tr>
 <td valign="top">
 
 ### 🧠 [Concept Mapper](https://github.com/maanas1234/Concept_Mapper)
@@ -74,6 +82,8 @@ Type a topic. Get a personalized learning path as an interactive 3D knowledge gr
 `Three.js` `Flask` `OpenRouter`
 
 </td>
+</tr>
+<tr>
 <td valign="top">
 
 ### ⏱️ [Claude Usage Meter](https://github.com/maanas1234/claude-usage-meter)
@@ -82,8 +92,6 @@ Windows tray widget showing live Claude.ai session limits + reset countdowns. Po
 `Electron` `JavaScript`
 
 </td>
-</tr>
-<tr>
 <td valign="top">
 
 ### 💬 [Todoist Agent](https://github.com/maanas1234/todoist-agent)
@@ -92,6 +100,8 @@ WhatsApp bot that manages your Todoist tasks via natural language. "Add call Mom
 `Python` `DeepSeek` `Twilio` `Railway`
 
 </td>
+</tr>
+<tr>
 <td valign="top">
 
 ### ✍️ [Human-Write](https://github.com/maanas1234/human-write)
@@ -100,6 +110,7 @@ A field guide for eliminating AI writing patterns — 10 categories, 40+ specifi
 `Resource` `Prompt Engineering` `Writing`
 
 </td>
+<td valign="top"></td>
 </tr>
 </table>
 
